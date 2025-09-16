@@ -5,7 +5,7 @@
 
 > **作者**: 李枭龙 (Lucas__sen)  
 > **官网**: [枭龙网络](https://0554h.com)  
-> **源码**: [GitHub](https://github.com/XL_Language)  
+>> **源码**: [GitHub](https://github.com/XLucasen/XL_Language)  **源码**: [GitHub](https://github.com/XLucasen/XL_Language)  
 > **邮箱**: 332555220@qq.com
 
 一个功能强大的C# WPF多语言支持类库，支持动态切换语言而无需重启应用，提供简洁的API和完善的MVVM支持。
@@ -837,13 +837,13 @@ public static void DebugKeyMapping(string key)
 2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
 3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
 4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 打开 Pull Request
+5. 打开拉取请求
 
 ### 报告问题
 
-如果您发现了bug或有功能建议，请通过以下方式报告：
+如果您发现了错误或有功能建议，请通过以下方式报告：
 
-1. 在GitHub上创建Issue
+1. 在GitHub上创建问题
 2. 提供详细的错误描述和重现步骤
 3. 包含相关的代码示例
 4. 提供环境信息（.NET版本、操作系统等）
@@ -864,5 +864,6 @@ public static void DebugKeyMapping(string key)
 - 💬 GitHub Issues: [创建Issue](https://github.com/XLucasen/XL_Language/issues)
 
 ---
+
 
 **XL_Language** - 让WPF多语言支持变得简单而强大！ 🚀
