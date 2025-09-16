@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>XL_Language</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>XLucas</Authors>
+    <Description>WPF多语言支持类库，支持动态切换语言和MVVM绑定</Description>
+    <PackageTags>WPF;Multilingual;Localization;MVVM</PackageTags>
+    <PackageIcon></PackageIcon>
+    <LangVersion>preview</LangVersion>
+    <BaseOutputPath>I:\LucasCSharp\Lisson\Run</BaseOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+</Project>
